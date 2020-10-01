@@ -3,7 +3,7 @@ public class MiPrimerPrograma {
     
     System.out.print("Hola, es mi primer programa.\n\n");
     System.out.print("La suma de 3 y 5 es: \n");
-    System.out.println(3+5);
+    System.out.println(3+5+9);
     
     
     System.out.print("\033[33m mandarina");
